@@ -1,0 +1,1 @@
+res/edje/Trans_button.edj:
